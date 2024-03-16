@@ -45,11 +45,18 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Khokhar&layout=compact&theme=vision-friendly-dark" />
-</a>
-</div>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
+<div align="center" style="display: flex; flex-direction: row;">
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6" />
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Khokhar&layout=compact&theme=vision-friendly-dark" />
+    </a>
+  </div>
+</div>
 
