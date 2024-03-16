@@ -44,6 +44,6 @@
   <br/>
 </div>
 <br/>
-<div align="center">
-      <img width=390 src="[https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](http://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6)](https://git.io/streak-stats)" alt="streak stats"/>
-</div>
+
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6)](https://git.io/streak-stats)
+
