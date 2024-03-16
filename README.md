@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,antdesign,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,reactjs,nextjs,reactnative" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,bootstrap,mui,tailwind,ant-design,html,css,vscode,github" />
 </div>
 <br/>
 <hr/>
