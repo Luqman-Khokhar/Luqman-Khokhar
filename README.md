@@ -44,6 +44,8 @@
   <br/>
 </div>
 <br/>
-<div  align="center">
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6" />
 </div>
+
+
