@@ -46,6 +46,8 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Luqman-Khokhar&theme=github-dark-blue&border_radius=6" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Khokhar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
